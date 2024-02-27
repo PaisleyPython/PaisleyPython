@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simon Jones
 ===================================================================================================================================
 
-I'm a Back-End Developer
+I'm a Python Developer
 ------------------------
 
 I've been working solely with python for the last few years but I've recently started branching out into the front-end and my ambitions are to transition into full-stack development.
 
 * 🌍  I'm based in Swansea, Wales
-* 🖥️  See my portfolio at [My portfolio](http://www.sjdev.com)
+* 🖥️  See my portfolio at [My portfolio](http://www.sjdev.uk)
 * ✉️  You can contact me at [m.simonjones@gmail.com](mailto:m.simonjones@gmail.com)
-* 🧠  I'm learning Django, JS, SQL, AWS. Also have intensions to learn Clojure
+* 🧠  I'm learning Django, C#, DSA
 * 🤝  I'm open to collaborating on anything, hit me up.
 
 ### Skills
